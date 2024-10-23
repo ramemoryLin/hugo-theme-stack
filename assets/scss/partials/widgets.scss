@@ -14,6 +14,9 @@
 
 /* Tag cloud widget */
 .tagCloud {
+    .tagCloud-count {
+        color: var(--body-text-color);
+    }
     .tagCloud-tags {
         display: flex;
         flex-wrap: wrap;
